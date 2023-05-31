@@ -7,3 +7,6 @@ output:
 
 Welcome to my website!  
 I am a student at SUSTech, my name is LY.
+
+Insert a figure:  
+<img src="figs/微信图片_20220719215758.jpg" alt="drawing" width="800"/>
