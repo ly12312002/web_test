@@ -9,4 +9,4 @@ Welcome to my website!
 I am a student at SUSTech, my name is LY.
 
 Insert a figure:  
-<img src="figs/figure.jpg" alt="drawing" width="800"/>
+<img src="figs/figure1.jpg" alt="drawing" width="800"/>
